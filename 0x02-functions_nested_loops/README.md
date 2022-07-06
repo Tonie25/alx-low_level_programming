@@ -1,0 +1,1 @@
+Functionc readme for c
