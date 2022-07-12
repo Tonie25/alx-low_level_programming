@@ -3,6 +3,7 @@
  * puts_half- function prints half of a string and then a new line. 
  *
  * @str: String input 
+ *
  */
 void puts_half(char *str)
 {
@@ -20,7 +21,7 @@ void puts_half(char *str)
 	while (half < index)
 	{
 		_putchar(str[half]);
-		half ++;
+		half++;
 	}
 	_putchar('\n');
 }
