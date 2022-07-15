@@ -24,7 +24,7 @@ char *leet(char *s)
 		leetCount = 0;
 		while (leetCount < 10)
 		{ 
-			if (leetletter[leetCount] == s[stringCount])
+			if (leetLetters[leetCount] == s[stringCount])
 			{
 				s[stringCount] = leetNums[leetCount];
 			}
