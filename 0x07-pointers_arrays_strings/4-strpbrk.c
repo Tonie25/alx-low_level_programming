@@ -1,5 +1,5 @@
 #include <stdio.h>
-#includ "main.h"
+#include "main.h"
 /**
  * _strpbrk - prints the consecutive characters
  * @s: source string
