@@ -1,9 +1,9 @@
-#include "main.h"
 #include <stdio.h>
+#includ "main.h"
 /**
  * _strpbrk - prints the consecutive characters
  * @s: source string
- * *accept: search string
+ * @accept: search string
  *
  * Return: new string 
  */
