@@ -1,6 +1,6 @@
 #include "main.h" 
 /**
- * helperFunction -returns 0 or 1 
+ * helperFunction - returns 0 or 1 
  * @num: number to check
  * @i: possible factor of number 
  * 
@@ -40,6 +40,6 @@
 			}
 			else 
 			{
-				return(helperFunction(n, 2));
+				return (helperFunction(n, 2));
 			}
 		}
