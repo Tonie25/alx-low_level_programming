@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * *
+ *
  * _length - checks string length 
- * @s: string 
+ * @s: is the string 
  * Return: return the length of the string
  **/
 	int _length(char *s)
@@ -16,7 +16,7 @@
  * checkp - checks if the string is palindrome
  * @i: index
  * @lg: string length
- * @s: string
+ * @s: is the string
  * return 1 if is palindrome, 0 if not.
  **/
 	int checkp(int i, int lg, char *s)
